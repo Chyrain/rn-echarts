@@ -6,7 +6,7 @@
   
 ## install
 
-$ npm install rn-echarts@git+https://github.com/Chyrain/rn-echarts.git --save
+$ npm install git+https://Chyrain@github.com/Chyrain/rn-echarts#0.0.1 --save
 
 ## Usage
 
