@@ -2,11 +2,11 @@
 
 [![NPM Version](https://img.shields.io/npm/v/rn-echarts.svg?style=flat)](https://www.npmjs.org/package/rn-echarts)
   [![npm](https://img.shields.io/npm/dm/rn-echarts.svg?style=flat)](https://www.npmjs.org/package/rn-echarts)
-  [![License](http://img.shields.io/npm/l/rn-echarts.svg?style=flat)](https://raw.githubusercontent.com/somonus/react-rn-echarts/master/LICENSE.md)
+  [![License](http://img.shields.io/npm/l/rn-echarts.svg?style=flat)](https://raw.githubusercontent.com/chyrain/rn-echarts/master/LICENSE)
   
 ## install
 
-$ npm install rn-echarts --save
+$ npm install rn-echarts@git+https://github.com/Chyrain/rn-echarts.git --save
 
 ## Usage
 
