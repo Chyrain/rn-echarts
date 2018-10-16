@@ -1,12 +1,12 @@
-# native-echarts
+# rn-echarts
 
-[![NPM Version](https://img.shields.io/npm/v/native-echarts.svg?style=flat)](https://www.npmjs.org/package/native-echarts)
-  [![npm](https://img.shields.io/npm/dm/native-echarts.svg?style=flat)](https://www.npmjs.org/package/native-echarts)
-  [![License](http://img.shields.io/npm/l/native-echarts.svg?style=flat)](https://raw.githubusercontent.com/somonus/react-native-echarts/master/LICENSE.md)
+[![NPM Version](https://img.shields.io/npm/v/rn-echarts.svg?style=flat)](https://www.npmjs.org/package/rn-echarts)
+  [![npm](https://img.shields.io/npm/dm/rn-echarts.svg?style=flat)](https://www.npmjs.org/package/rn-echarts)
+  [![License](http://img.shields.io/npm/l/rn-echarts.svg?style=flat)](https://raw.githubusercontent.com/somonus/react-rn-echarts/master/LICENSE.md)
   
 ## install
 
-$ npm install native-echarts --save
+$ npm install rn-echarts --save
 
 ## Usage
 
@@ -27,7 +27,7 @@ import {
   Text,
   View
 } from 'react-native';
-import Echarts from 'native-echarts';
+import Echarts from 'rn-echarts';
 
 export default class app extends Component {
   render() {
@@ -59,18 +59,6 @@ AppRegistry.registerComponent('app', () => app);
 
 ```
 
-
-
-##Example
-
-*run demo*
-
-```
-cd example
-npm install
-npm start
-```
-
 ### IOS
 
 Open the xcode project in the ios directory and click run
@@ -89,4 +77,4 @@ screenshots：
 
 ## License
 
-native-echarts is released under the MIT license.
+rn-echarts is released under the MIT license.
